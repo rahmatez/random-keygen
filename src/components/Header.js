@@ -213,7 +213,7 @@ export default function Header() {
           {/* Right utilities (Theme, GitHub) */}
           <div className="flex items-center gap-3">
             <a
-              href="https://github.com/randomkeygen/randomkeygen"
+              href="https://github.com/rahmatez/random-keygen"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-ghost p-2"

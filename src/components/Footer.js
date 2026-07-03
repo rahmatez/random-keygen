@@ -113,10 +113,8 @@ export default function Footer() {
         {/* Lower footer note */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-(--muted) pt-8 border-t border-(--border)">
           <div className="flex items-center gap-1">
-            <span>Built by</span>
-            <a href="https://x.com/toddo" target="_blank" rel="noopener noreferrer" className="text-(--foreground) hover:text-(--accent) transition-colors font-medium">@toddo</a>
-            <span className="mx-2">·</span>
-            <span>Hosted by <a href="https://ready.dev?ref=randomkeygen.com" target="_blank" rel="noopener noreferrer" className="hover:text-(--accent) transition-colors font-medium">ready.dev</a></span>
+            <span>Made by</span>
+            <a href="https://github.com/rahmatez" target="_blank" rel="noopener noreferrer" className="text-(--foreground) hover:text-(--accent) transition-colors font-medium">rahmatez</a>
           </div>
 
           <div className="flex items-center gap-4">
